@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Capital City Quiz</string>
+    <string name="cincinnati_city">Cincinnati</string>
+    <string name="london_england">London</string>
+    <string name="quiz_aborted">Abort Abandon the Quiz</string>
+    <string name="abort_confirmation">Confirmation</string>
+    <string name="yes" translatable="false">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="correct_answers">Correct Answers = </string>
+    <string name="wrong_answers">Wrong Answers = </string>
+    <string name="skipped_answers" translatable="false">Skipped Answers = </string>
+    <string name="final_score" translatable="false">Final Score </string>
+    <string name="current_score" translatable="false">Current Score </string>
+    <string name="question">Question </string>
+    <string name="delimiter"> / </string>
+    <string name="welcome_text">Capital City Quiz. Press PLAY to start!</string>
+    <string name="play_main_Activity">Play</string>
+    <string name="progressTextView">0/0</string>
+    <string name="game_question">question</string>
+    <string name="yesButton_game" translatable="false">Yes</string>
+    <string name="noButton_game" translatable="false">No</string>
+    <string name="skipButton_game" translatable="false">Skip</string>
+    <string name="abortButton_game" translatable="false">Abort</string>
+    <string name="game_response">TextView</string>
+    <string name="play_again_game">Play Again</string>
+    <string name="question_0_0">0/0</string>
+</resources>

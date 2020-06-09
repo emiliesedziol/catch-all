@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Date Diff</string>
+    <string name="title">do something</string>
+    <string name="dateOneButton">Select Date 1</string>
+    <string name="dateTwoButton">Select Date 2</string>
+    <string name="enterDateOne">Enter Date 1</string>
+    <string name="enterDateTwo">Enter Date 2</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="diffText">Display difference</string>
+</resources>

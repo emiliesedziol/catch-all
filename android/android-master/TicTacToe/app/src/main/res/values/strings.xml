@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="pressPlay">Press Play to start</string>
+    <string name="oWon">Nought won</string>
+    <string name="xWon">cross won</string>
+    <string name="xAlreadyPlayed">Already Played</string>
+    <string name="oAlreadyPlayed">Already Played</string>
+    <string name="play">Press Play</string>
+    <string name="results">results</string>
+    <string name="buttonrow1_1">ButtonRow1-1</string>
+    <string name="buttonrow1_3">ButtonRow1-3</string>
+    <string name="buttonrow1_2">ButtonRow1-2</string>
+    <string name="buttonrow2_2">ButtonRow2-2</string>
+    <string name="buttonrow2_3">ButtonRow2-3</string>
+    <string name="buttonrow3_1">ButtonRow3-1</string>
+    <string name="buttonrow3_2">ButtonRow3-2</string>
+    <string name="buttonrow3_3">ButtonRow3-3</string>
+    <string name="playA">Play</string>
+    <string name="lines_of_board">lines of board</string>
+    <string name="image2">image2</string>
+    <string name="noWinner">no one won</string>
+</resources>

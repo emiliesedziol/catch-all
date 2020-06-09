@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Capital City Quiz</string>
+    <string name="current_score" translatable="false">Current actuel</string>
+    <string name="final_score" translatable="false">Score final</string>
+    <string name="abortButton_game" translatable="false">Quiz avorte</string>
+    <string name="no" translatable="false">non</string>
+    <string name="quiz_aborted">Quiz avorte!!!</string>
+    <string name="noButton_game" translatable="false">non</string>
+    <string name="yes" translatable="false">Oui</string>
+    <string name="skipped_answers" translatable="false">sautees</string>
+    <string name="skipButton_game" translatable="false">sautees</string>
+    <string name="yesButton_game" translatable="false">Oui</string>
+</resources>
